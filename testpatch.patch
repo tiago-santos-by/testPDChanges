@@ -1,0 +1,50 @@
+diff --git a/testFile.txt b/testFile.txt
+index 3d6dbba..fcd217f 100644
+--- a/testFile.txt
++++ b/testFile.txt
+@@ -1,17 +1,26 @@
+-This is a test
+-
+-
+-This is a test
+-
+-
+-This is a test
+-
+-This is a test
+-
+-This is a test
+-
+-This is a test
+-
+-This is a test
+-
+-I should've bought dogecoin
+\ No newline at end of file
++a
++b
++c
++d
++e
++f
++g
++h
++i
++j
++k
++l
++m
++n
++o
++p
++q
++r
++s
++t
++u
++v
++w
++x
++y
++z
+\ No newline at end of file
