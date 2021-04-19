@@ -1,3 +1,5 @@
 When changes occur in standard commands that have been modified, the ability to consume the changes into a new branch in the project repo would be ideal with minimal user interaction.
 
 Currently the product diff is written out to the HTML report. For exactly matching files, the upgrade analysis tool should have an option to attempt to automatically apply these changes to the custom repository.
+
+When changes occur in standard commands that have been modified, the ability to consume the changes into a new branch in the project repo would be ideal with minimal user interaction.
